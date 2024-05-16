@@ -2,7 +2,6 @@
 
 ![image text](https://github.com/pengrui2009/CodereviewDemo/blob/master/view/code_static_review.jpeg "Code Static Review")
 
-
 步骤如下:
 
 1.Ubuntu下安装clangd软件
